@@ -1,3 +1,16 @@
-
-GEF207 | Pazartesi | 08:00-09:00 | L2102 | Öğr. Enis Çağrı Eroğlu
-MBP201 | Pazartesi | 09:00-10:00 | L2102 | Öğr. Enis Çağrı Eroğlu
+MBP208 | Pazartesi | 08:00-09:00 | L2102 | Öğr. Enis Çağrı Eroğlu
+MBP210 | Pazartesi | 09:00-10:00 | L2102 | Öğr. Enis Çağrı Eroğlu
+MBP235 | Pazartesi | 10:00-11:00 | L2102 | Öğr. Enis Çağrı Eroğlu
+GEF207 | Perşembe | 09:00-11:00 | D4105 | Öğr. ERINC ERCAG
+GEF207 | Pazartesi | 11:00-12:00 | L2102 | Öğr. ÖMER OKLU
+MBP201 | Pazartesi | 13:00-14:00 | L2102 | Öğr. ÖMER OKLU
+MBP202 | Pazartesi | 14:00-15:00 | L2102 | Öğr. ÖMER OKLU
+GEF207 | Pazartesi | 15:00-16:00 | L2102 | Öğr. Eser Gemikonaklı
+MBP201 | Pazartesi | 16:00-17:00 | L2102 | Öğr. Eser Gemikonaklı
+MBP202 | Salı | 08:00-09:00 | L2102 | Öğr. Eser Gemikonaklı
+GEF207 | Salı | 09:00-10:00 | L2102 | Öğr. ERINC ERCAG
+MBP201 | Salı | 10:00-11:00 | L2102 | Öğr. ERINC ERCAG
+MBP202 | Salı | 11:00-12:00 | L2102 | Öğr. ERINC ERCAG
+MBP208 | Salı | 13:00-14:00 | L2102 | Öğr. ERINC ERCAG
+MBP210 | Salı | 14:00-15:00 | L2102 | Öğr. ERINC ERCAG
+MBP202 | Çarşamba | 09:00-11:00 | L2103 | Öğr. Enis Çağrı Eroğlu

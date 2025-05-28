@@ -76,6 +76,7 @@ D:\Ders-Program\Ders-Program-1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp
 D:\Ders-Program\Ders-Program-1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
 D:\Ders-Program\Ders-Program-1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
 D:\Ders-Program\Ders-Program-1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\Ders-Program\Ders-Program-1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.sourcelink.json
 D:\Ders-Program\Ders-Program-1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
 D:\Ders-Program\Ders-Program-1\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
 D:\Ders-Program\Ders-Program-1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb

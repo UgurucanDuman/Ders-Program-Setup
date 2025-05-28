@@ -60,7 +60,6 @@
             label8 = new Label();
             label9 = new Label();
             btnExcelCiktiAl = new Button();
-            label10 = new Label();
             ((System.ComponentModel.ISupportInitialize)bindingSource1).BeginInit();
             SuspendLayout();
             // 
@@ -82,9 +81,9 @@
             // 
             // btnOgretmenEkle
             // 
-            btnOgretmenEkle.Location = new Point(121, 72);
+            btnOgretmenEkle.Location = new Point(125, 71);
             btnOgretmenEkle.Name = "btnOgretmenEkle";
-            btnOgretmenEkle.Size = new Size(104, 23);
+            btnOgretmenEkle.Size = new Size(75, 23);
             btnOgretmenEkle.TabIndex = 2;
             btnOgretmenEkle.Text = "Öğretmen ekle";
             btnOgretmenEkle.UseVisualStyleBackColor = true;
@@ -244,7 +243,7 @@
             // 
             // btnDersSil
             // 
-            btnDersSil.Location = new Point(154, 410);
+            btnDersSil.Location = new Point(171, 410);
             btnDersSil.Name = "btnDersSil";
             btnDersSil.Size = new Size(75, 23);
             btnDersSil.TabIndex = 23;
@@ -272,7 +271,7 @@
             // 
             // btnBosSaatleriGoster
             // 
-            btnBosSaatleriGoster.Location = new Point(232, 410);
+            btnBosSaatleriGoster.Location = new Point(265, 410);
             btnBosSaatleriGoster.Name = "btnBosSaatleriGoster";
             btnBosSaatleriGoster.Size = new Size(108, 23);
             btnBosSaatleriGoster.TabIndex = 26;
@@ -282,7 +281,7 @@
             // 
             // btnOtomatikAta
             // 
-            btnOtomatikAta.Location = new Point(346, 410);
+            btnOtomatikAta.Location = new Point(388, 410);
             btnOtomatikAta.Name = "btnOtomatikAta";
             btnOtomatikAta.Size = new Size(128, 23);
             btnOtomatikAta.TabIndex = 29;
@@ -326,30 +325,20 @@
             // 
             // btnExcelCiktiAl
             // 
-            btnExcelCiktiAl.Location = new Point(480, 410);
+            btnExcelCiktiAl.Location = new Point(522, 410);
             btnExcelCiktiAl.Name = "btnExcelCiktiAl";
-            btnExcelCiktiAl.Size = new Size(86, 23);
+            btnExcelCiktiAl.Size = new Size(75, 23);
             btnExcelCiktiAl.TabIndex = 33;
             btnExcelCiktiAl.Text = "Excal aktar";
             btnExcelCiktiAl.UseVisualStyleBackColor = true;
             btnExcelCiktiAl.Click += btnExcelCiktiAl_Click;
-            // 
-            // label10
-            // 
-            label10.AutoSize = true;
-            label10.Location = new Point(626, 476);
-            label10.Name = "label10";
-            label10.Size = new Size(263, 15);
-            label10.TabIndex = 34;
-            label10.Text = "MUSA VE UĞURCAN TARAFINDAN YAPILMIŞTIR ";
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.Window;
-            ClientSize = new Size(1416, 500);
-            Controls.Add(label10);
+            ClientSize = new Size(1684, 500);
             Controls.Add(btnExcelCiktiAl);
             Controls.Add(label9);
             Controls.Add(label8);
@@ -381,7 +370,7 @@
             Controls.Add(label1);
             Controls.Add(txtOgretmen);
             Name = "Form1";
-            Text = "Girne Üniversitesi Ders Programı Uygulaması";
+            Text = "Ders Programı";
             Load += Form1_Load;
             ((System.ComponentModel.ISupportInitialize)bindingSource1).EndInit();
             ResumeLayout(false);
@@ -422,6 +411,5 @@
         private Label label8;
         private Label label9;
         private Button btnExcelCiktiAl;
-        private Label label10;
     }
 }
