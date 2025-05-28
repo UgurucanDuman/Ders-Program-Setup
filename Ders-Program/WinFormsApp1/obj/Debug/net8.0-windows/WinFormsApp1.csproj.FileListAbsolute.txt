@@ -1,0 +1,97 @@
+C:\Users\Ugurc\OneDrive\Masaüstü\proje ödevi\wep sitesi\DersProgramı hesaplamam\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\Ugurc\OneDrive\Masaüstü\proje ödevi\wep sitesi\DersProgramı hesaplamam\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\Ugurc\OneDrive\Masaüstü\proje ödevi\wep sitesi\DersProgramı hesaplamam\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Ugurc\OneDrive\Masaüstü\proje ödevi\wep sitesi\DersProgramı hesaplamam\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\Ugurc\OneDrive\Masaüstü\proje ödevi\wep sitesi\DersProgramı hesaplamam\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\Ugurc\OneDrive\Masaüstü\proje ödevi\wep sitesi\DersProgramı hesaplamam\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Ugurc\OneDrive\Masaüstü\proje ödevi\wep sitesi\DersProgramı hesaplamam\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Ugurc\OneDrive\Masaüstü\proje ödevi\wep sitesi\DersProgramı hesaplamam\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ugurc\OneDrive\Masaüstü\proje ödevi\wep sitesi\DersProgramı hesaplamam\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Ugurc\OneDrive\Masaüstü\proje ödevi\wep sitesi\DersProgramı hesaplamam\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Ugurc\OneDrive\Masaüstü\proje ödevi\wep sitesi\DersProgramı hesaplamam\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Ugurc\OneDrive\Masaüstü\proje ödevi\wep sitesi\DersProgramı hesaplamam\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\Ugurc\OneDrive\Masaüstü\proje ödevi\wep sitesi\DersProgramı hesaplamam\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\Ugurc\OneDrive\Masaüstü\proje ödevi\wep sitesi\DersProgramı hesaplamam\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\Ugurc\OneDrive\Masaüstü\proje ödevi\wep sitesi\DersProgramı hesaplamam\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Ugurc\OneDrive\Masaüstü\proje ödevi\wep sitesi\DersProgramı hesaplamam\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\Ugurc\OneDrive\Masaüstü\DersProgramı hesaplamam\Ders-Program-1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\Ugurc\OneDrive\Masaüstü\DersProgramı hesaplamam\Ders-Program-1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\Ugurc\OneDrive\Masaüstü\DersProgramı hesaplamam\Ders-Program-1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Ugurc\OneDrive\Masaüstü\DersProgramı hesaplamam\Ders-Program-1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\Ugurc\OneDrive\Masaüstü\DersProgramı hesaplamam\Ders-Program-1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\Ugurc\OneDrive\Masaüstü\DersProgramı hesaplamam\Ders-Program-1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Ugurc\OneDrive\Masaüstü\DersProgramı hesaplamam\Ders-Program-1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Ugurc\OneDrive\Masaüstü\DersProgramı hesaplamam\Ders-Program-1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ugurc\OneDrive\Masaüstü\DersProgramı hesaplamam\Ders-Program-1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Ugurc\OneDrive\Masaüstü\DersProgramı hesaplamam\Ders-Program-1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Ugurc\OneDrive\Masaüstü\DersProgramı hesaplamam\Ders-Program-1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Ugurc\OneDrive\Masaüstü\DersProgramı hesaplamam\Ders-Program-1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.sourcelink.json
+C:\Users\Ugurc\OneDrive\Masaüstü\DersProgramı hesaplamam\Ders-Program-1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\Ugurc\OneDrive\Masaüstü\DersProgramı hesaplamam\Ders-Program-1\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\Ugurc\OneDrive\Masaüstü\DersProgramı hesaplamam\Ders-Program-1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\Ugurc\OneDrive\Masaüstü\DersProgramı hesaplamam\Ders-Program-1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Ugurc\OneDrive\Masaüstü\DersProgramı hesaplamam\Ders-Program-1\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\Ugurc\OneDrive\Masaüstü\Ders-Program-1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Ugurc\OneDrive\Masaüstü\Ders-Program-1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Ugurc\OneDrive\Masaüstü\Ders-Program-1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ugurc\OneDrive\Masaüstü\Ders-Program-1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Ugurc\OneDrive\Masaüstü\Ders-Program-1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Ugurc\OneDrive\Masaüstü\Ders-Program-1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Ugurc\OneDrive\Masaüstü\Ders-Program-1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.sourcelink.json
+C:\Users\Ugurc\OneDrive\Masaüstü\Ders-Program-1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\Ugurc\OneDrive\Masaüstü\Ders-Program-1\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\Ugurc\OneDrive\Masaüstü\Ders-Program-1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\Ugurc\OneDrive\Masaüstü\Ders-Program-1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\Ugurc\OneDrive\Masaüstü\Ders-Program-1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\Ugurc\OneDrive\Masaüstü\Ders-Program-1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Ugurc\OneDrive\Masaüstü\Ders-Program-1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\Ugurc\OneDrive\Masaüstü\Ders-Program-1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\Ugurc\OneDrive\Masaüstü\Ders-Program-1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Ugurc\OneDrive\Masaüstü\Ders-Program-1\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\mucin\Downloads\Ders-Program\Ders-Program-1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\mucin\Downloads\Ders-Program\Ders-Program-1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\mucin\Downloads\Ders-Program\Ders-Program-1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\mucin\Downloads\Ders-Program\Ders-Program-1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\mucin\Downloads\Ders-Program\Ders-Program-1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\mucin\Downloads\Ders-Program\Ders-Program-1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\mucin\Downloads\Ders-Program\Ders-Program-1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\mucin\Downloads\Ders-Program\Ders-Program-1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mucin\Downloads\Ders-Program\Ders-Program-1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\mucin\Downloads\Ders-Program\Ders-Program-1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\mucin\Downloads\Ders-Program\Ders-Program-1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\mucin\Downloads\Ders-Program\Ders-Program-1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.sourcelink.json
+C:\Users\mucin\Downloads\Ders-Program\Ders-Program-1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\mucin\Downloads\Ders-Program\Ders-Program-1\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\mucin\Downloads\Ders-Program\Ders-Program-1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\mucin\Downloads\Ders-Program\Ders-Program-1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\mucin\Downloads\Ders-Program\Ders-Program-1\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+D:\Ders-Program\Ders-Program-1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+D:\Ders-Program\Ders-Program-1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+D:\Ders-Program\Ders-Program-1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+D:\Ders-Program\Ders-Program-1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+D:\Ders-Program\Ders-Program-1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+D:\Ders-Program\Ders-Program-1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+D:\Ders-Program\Ders-Program-1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\Ders-Program\Ders-Program-1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ders-Program\Ders-Program-1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\Ders-Program\Ders-Program-1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\Ders-Program\Ders-Program-1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\Ders-Program\Ders-Program-1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+D:\Ders-Program\Ders-Program-1\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+D:\Ders-Program\Ders-Program-1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+D:\Ders-Program\Ders-Program-1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\Ders-Program\Ders-Program-1\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+D:\Ders-Program\Ders-Program-1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+D:\Ders-Program\Ders-Program-1\WinFormsApp1\bin\Debug\net8.0-windows\EPPlus.dll
+D:\Ders-Program\Ders-Program-1\WinFormsApp1\bin\Debug\net8.0-windows\EPPlus.Interfaces.dll
+D:\Ders-Program\Ders-Program-1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+D:\Ders-Program\Ders-Program-1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Ders-Program\Ders-Program-1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Ders-Program\Ders-Program-1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\Ders-Program\Ders-Program-1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Ders-Program\Ders-Program-1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Ders-Program\Ders-Program-1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Ders-Program\Ders-Program-1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Ders-Program\Ders-Program-1\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Ders-Program\Ders-Program-1\WinFormsApp1\obj\Debug\net8.0-windows\WinForms.E4050A35.Up2Date
+D:\Ders-Program\Ders-Program-1\WinFormsApp1\bin\Debug\net8.0-windows\EPPlus.System.Drawing.dll
